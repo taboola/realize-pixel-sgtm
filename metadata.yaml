@@ -1,5 +1,5 @@
 homepage: "www.taboola.com",
 documentation: "https://help.taboola.com/hc/en-us/articles/360033655813-Implementing-the-Taboola-Pixel-Template-for-Google-Tag-Manager",
 versions:
-  - sha: 27d578c42b2da57759fd29905903079e98344468
+  - sha: 7478efcd541c37ff22e8bd07377fe6499a62e819
     changeNotes: Initial release
